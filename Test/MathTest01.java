@@ -1,4 +1,5 @@
 public class MathTest01 {
+   
     public static void main(String[] args) {
         
         //Using the ceil command that gets the >= Closest whole Number

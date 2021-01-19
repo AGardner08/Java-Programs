@@ -15,15 +15,18 @@ public class GetSet {
         
         }
        
-    Scanner keyboard = new Scanner(System.in);        
-    
-    public static void main(String[] args) {
         
-        System.out.println("Enter a name:");
+        public static void main(String[] args) {
+            Scanner keyboard = new Scanner(System.in);        
+                
+            System.out.println("Enter a name:");
 
-       // String text = keyboard.nextLine();
-
-      //  System.out.println(text);
-        
+            //set the name to retrieve
+            GetSet text = new GetSet();
+            text.setName(keyboard.nextLine());
+            
+            //Get the name and set as string 
+            System.out.println("Greetings " + (String)text.getName());
+            
     }
 }

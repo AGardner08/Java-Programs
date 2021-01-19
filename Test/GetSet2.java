@@ -13,8 +13,6 @@ public class GetSet2 {
             return "Name is too large";
         } else 
         return name;
-    
-    
     }
 
 
