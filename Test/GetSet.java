@@ -20,7 +20,7 @@ public class GetSet {
             Scanner keyboard = new Scanner(System.in);        
                 
             System.out.println("Enter a name:");
-
+            
             //set the name to retrieve
             GetSet text = new GetSet();
             text.setName(keyboard.nextLine());
