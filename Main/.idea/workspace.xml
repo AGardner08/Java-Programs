@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7966cb5-c935-4f07-bf2c-0688a463e8a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExpressionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExpressionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpressionTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +40,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ExpressionTest">
+  <component name="RunManager" selected="Application.ExpressionTest3">
     <configuration name="ExpressionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExpressionTest" />
+      <module name="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpressionTest3" />
       <module name="Main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExpressionTest3" />
         <item itemvalue="Application.ExpressionTest" />
         <item itemvalue="Application.PoundConverter" />
         <item itemvalue="Application.Main" />
