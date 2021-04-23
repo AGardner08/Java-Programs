@@ -6,7 +6,8 @@ public class Main {
         BarkingDog.shouldWakeUp(true, 2);
         BarkingDog.shouldWakeUp(true, 8);
         BarkingDog.shouldWakeUp(true, -1);
+        BarkingDog.shouldWakeUp(false, 6);
 
-        System.out.println();
+
     }
 }
