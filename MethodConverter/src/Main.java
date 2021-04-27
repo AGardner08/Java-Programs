@@ -2,14 +2,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-       // int newScore = calculatedScore("Tim", 500);
-       // System.out.println("new score: " + newScore);
+        int newScore = calculatedScore("Tim", 500);
+        System.out.println("new score: " + newScore);
 
         //Without the need of a name
-       // calculatedScore(75);
+        calculatedScore(75);
 
         //Methlod overloaded with no value
-       // calculatedScore();
+        calculatedScore();
 
         //Test calc method
         calcFeetAndInchesToCentemeters(6,0);
@@ -54,7 +54,7 @@ public class Main {
             return centimenters;
         } else {
 
-            System.out.println("no");
+            System.out.println("Invalid feet or inches parameters");
             return -1;
         }
 
