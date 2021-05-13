@@ -1,3 +1,5 @@
+package org.vardantex.other;
+
 import java.util.Scanner;
 
 public class PoundConverter {

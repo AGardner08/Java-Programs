@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CatPlayTest/CatPlayTest.iml" filepath="$PROJECT_DIR$/CatPlayTest/CatPlayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfWeek/DayOfWeek.iml" filepath="$PROJECT_DIR$/DayOfWeek/DayOfWeek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaysInMonths/DaysInMonths.iml" filepath="$PROJECT_DIR$/DaysInMonths/DaysInMonths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitSum/DigitSum.iml" filepath="$PROJECT_DIR$/DigitSum/DigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhileTEST/DoWhileTEST.iml" filepath="$PROJECT_DIR$/DoWhileTEST/DoWhileTEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntEqualityPrinter/IntEqualityPrinter.iml" filepath="$PROJECT_DIR$/IntEqualityPrinter/IntEqualityPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterestCalculator/InterestCalculator.iml" filepath="$PROJECT_DIR$/InterestCalculator/InterestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Programs.iml" filepath="$PROJECT_DIR$/Java-Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegabytesConverter/MegabytesConverter.iml" filepath="$PROJECT_DIR$/MegabytesConverter/MegabytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodConverter/MethodConverter.iml" filepath="$PROJECT_DIR$/MethodConverter/MethodConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinutesToYearsDays/MinutesToYearsDays.iml" filepath="$PROJECT_DIR$/MinutesToYearsDays/MinutesToYearsDays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsToMinutes/SecondsToMinutes.iml" filepath="$PROJECT_DIR$/SecondsToMinutes/SecondsToMinutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfNumbers/SumOfNumbers.iml" filepath="$PROJECT_DIR$/SumOfNumbers/SumOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+    </modules>
+  </component>
+</project>

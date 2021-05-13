@@ -1,3 +1,5 @@
+package org.vardantex.other;
+
 public class ExpressionTest2 {
     public static void main(String[] args) {
 
