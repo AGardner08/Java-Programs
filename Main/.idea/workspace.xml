@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7966cb5-c935-4f07-bf2c-0688a463e8a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/vardantex/phone/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/vardantex/phone/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/ExpressionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/ExpressionTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/PoundConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExpressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/other/ExpressionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExpressionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/other/ExpressionTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExpressionTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/other/ExpressionTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PoundConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/other/PoundConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/vardantex/phone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/phone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/vardantex/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/phone/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
