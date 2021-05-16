@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7966cb5-c935-4f07-bf2c-0688a463e8a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/vardantex/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/vardantex/Inheritance/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/vardantex/Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/vardantex/Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/vardantex/phone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/phone/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/vardantex/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/vardantex/phone/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/org/vardantex/phone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/org/vardantex/phone/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/org/vardantex/phone/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/org/vardantex/phone/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/test/oop/Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +48,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vardantex.Inheritance.Dog" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vardantex.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExpressionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vardantex.other.ExpressionTest" />
       <module name="Main" />
@@ -70,27 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vardantex.Inheritance.Main" />
       <module name="Main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PoundConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vardantex.other.PoundConverter" />
-      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vardantex.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ExpressionTest3" />
         <item itemvalue="Application.ExpressionTest" />
-        <item itemvalue="Application.PoundConverter" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
