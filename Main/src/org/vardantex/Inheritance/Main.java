@@ -8,8 +8,10 @@ public class Main {
         System.out.println(phoenix.getName());
         phoenix.eat("Food");
         System.out.println("Total wings: " + phoenix.getWings());
-        //Call the fly method
-        phoenix.fly();
+
+
+        //Call the fly method with the speed parameter
+        phoenix.fly(100);
 
 
 

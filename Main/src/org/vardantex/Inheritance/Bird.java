@@ -25,6 +25,16 @@ public class Bird extends Animal {
         System.out.println(this.getName() + " can fly");
     }
 
+    //Same name with a unique method calling speed
+    public void fly(int speed) {
+
+    }
+
+    //Polymorphism: Gemerate the fly method only using name
+    public  void fly(String name) {
+        
+    }
+
     public int getWings() {
         return wings;
     }
