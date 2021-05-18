@@ -14,7 +14,7 @@ public class StudentMain {
         students.add(new Student("Amy", 17));
         students.add(new Student("Sonic", 18));
 
-        //Create a loop for the student array using Student class per line 
+        //Create a loop for the student array using Student class per line
         for (Student s: students) {
 
             System.out.println(s.getName());
