@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7966cb5-c935-4f07-bf2c-0688a463e8a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/CarInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/FossilFuelCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/StaticKeyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/StaticKeyword/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/StaticKeyword/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/StaticKeyword/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/AbstractMethods/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Collections/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Collections/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/OOP/Interface/FossilFuelCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/OOP/Interface/FossilFuelCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/AbstractMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AbstractMethods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/AbstractMethods/TestAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AbstractMethods/TestAbstractClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Interface.Main" />
       <module name="Main" />
@@ -65,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.StaticKeyword.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.AbstractMethods.Main" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.StaticKeyword.*" />
+          <option name="PATTERN" value="OOP.AbstractMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Collections.Main2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.StaticKeyword.Main" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.Collections.*" />
+          <option name="PATTERN" value="OOP.StaticKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StudentMain" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2 (1)" />
       </list>
     </recent_temporary>
   </component>
