@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7966cb5-c935-4f07-bf2c-0688a463e8a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP/AbstractMethods/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Concurrency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Concurrency/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/OOP/Interface/FossilFuelCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/OOP/Interface/FossilFuelCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/AbstractMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AbstractMethods/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/AbstractMethods/TestAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/AbstractMethods/TestAbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/OOP/AbstractMethods/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/OOP/AbstractMethods/TestClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Interface.Main" />
       <module name="Main" />
@@ -72,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Concurrency.Main" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.StaticKeyword.Main" />
       <module name="Main" />
@@ -85,25 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Collections.Main3" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Concurrency.Main2" />
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Collections.StudentMain" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.Collections.*" />
+          <option name="PATTERN" value="OOP.Concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StudentMain" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
