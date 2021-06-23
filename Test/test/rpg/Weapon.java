@@ -1,4 +1,4 @@
-package test.android;
+package test.rpg;
 
 public class Weapon {
 
